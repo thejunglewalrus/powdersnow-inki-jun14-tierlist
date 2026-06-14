@@ -1,0 +1,466 @@
+[
+  {
+    "class_kr": "버서커",
+    "class_en": "Berserker",
+    "build_kr": "광전사의 비기",
+    "build_en": "Berserker Technique",
+    "source": "ark_passive_01_64.png",
+    "filename": "berserker-berserker-technique.png"
+  },
+  {
+    "class_kr": "버서커",
+    "class_en": "Berserker",
+    "build_kr": "광기",
+    "build_en": "Mayhem",
+    "source": "ark_passive_bk_1.png",
+    "filename": "berserker-mayhem.png"
+  },
+  {
+    "class_kr": "디스트로이어",
+    "class_en": "Destroyer",
+    "build_kr": "분노의 망치",
+    "build_en": "Rage Hammer",
+    "source": "ark_passive_dt_1.png",
+    "filename": "destroyer-rage-hammer.png"
+  },
+  {
+    "class_kr": "디스트로이어",
+    "class_en": "Destroyer",
+    "build_kr": "중력 수련",
+    "build_en": "Gravity Training",
+    "source": "ark_passive_dt_2.png",
+    "filename": "destroyer-gravity-training.png"
+  },
+  {
+    "class_kr": "워로드",
+    "class_en": "Gunlancer",
+    "build_kr": "고독한 기사",
+    "build_en": "Lone Knight",
+    "source": "ark_passive_gl_6.png",
+    "filename": "gunlancer-lone-knight.png"
+  },
+  {
+    "class_kr": "워로드",
+    "class_en": "Gunlancer",
+    "build_kr": "전투 태세",
+    "build_en": "Combat Readiness",
+    "source": "ark_passive_01_66.png",
+    "filename": "gunlancer-combat-readiness.png"
+  },
+  {
+    "class_kr": "홀리나이트",
+    "class_en": "Paladin",
+    "build_kr": "심판자",
+    "build_en": "Judgment",
+    "source": "ark_passive_hk_5.png",
+    "filename": "paladin-judgment.png"
+  },
+  {
+    "class_kr": "홀리나이트",
+    "class_en": "Paladin",
+    "build_kr": "축복의 오라",
+    "build_en": "Blessed Aura",
+    "source": "ark_passive_hk_1.png",
+    "filename": "paladin-blessed-aura.png"
+  },
+  {
+    "class_kr": "슬레이어",
+    "class_en": "Slayer",
+    "build_kr": "처단자",
+    "build_en": "Punisher",
+    "source": "ark_passive_01_14.png",
+    "filename": "slayer-punisher.png"
+  },
+  {
+    "class_kr": "슬레이어",
+    "class_en": "Slayer",
+    "build_kr": "포식자",
+    "build_en": "Predator",
+    "source": "ark_passive_01_54.png",
+    "filename": "slayer-predator.png"
+  },
+  {
+    "class_kr": "발키리",
+    "class_en": "Valkyrie",
+    "build_kr": "빛의 기사",
+    "build_en": "Shining Knight",
+    "source": "ark_passive_hkf_1.png",
+    "filename": "valkyrie-shining-knight.png"
+  },
+  {
+    "class_kr": "발키리",
+    "class_en": "Valkyrie",
+    "build_kr": "해방자",
+    "build_en": "Liberator",
+    "source": "ark_passive_hkf_5.png",
+    "filename": "valkyrie-liberator.png"
+  },
+  {
+    "class_kr": "가디언나이트",
+    "class_en": "Guardian Knight",
+    "build_kr": "업화의 계승자",
+    "build_en": "Hellfire Successor",
+    "source": "ark_passive_ddk_1.png",
+    "filename": "guardian-knight-hellfire-successor.png"
+  },
+  {
+    "class_kr": "가디언나이트",
+    "class_en": "Guardian Knight",
+    "build_kr": "드레드 로어",
+    "build_en": "Dreadful Roar",
+    "source": "ark_passive_ddk_5.png",
+    "filename": "guardian-knight-dreadful-roar.png"
+  },
+  {
+    "class_kr": "배틀마스터",
+    "class_en": "Wardancer",
+    "build_kr": "초심",
+    "build_en": "First Intention",
+    "source": "ark_passive_01_15.png",
+    "filename": "wardancer-first-intention.png"
+  },
+  {
+    "class_kr": "배틀마스터",
+    "class_en": "Wardancer",
+    "build_kr": "오의 강화",
+    "build_en": "Esoteric Skill Enhancement",
+    "source": "ark_passive_01_16.png",
+    "filename": "wardancer-esoteric-skill-enhancement.png"
+  },
+  {
+    "class_kr": "인파이터",
+    "class_en": "Scrapper",
+    "build_kr": "극의: 체술",
+    "build_en": "Ultimate Skill: Taijutsu",
+    "source": "ark_passive_if_3.png",
+    "filename": "scrapper-ultimate-skill-taijutsu.png"
+  },
+  {
+    "class_kr": "인파이터",
+    "class_en": "Scrapper",
+    "build_kr": "충격 단련",
+    "build_en": "Shock Training",
+    "source": "ark_passive_01_37.png",
+    "filename": "scrapper-shock-training.png"
+  },
+  {
+    "class_kr": "기공사",
+    "class_en": "Soulfist",
+    "build_kr": "역천지체",
+    "build_en": "Energy Overflow",
+    "source": "ark_passive_so_4.png",
+    "filename": "soulfist-energy-overflow.png"
+  },
+  {
+    "class_kr": "기공사",
+    "class_en": "Soulfist",
+    "build_kr": "세맥타통",
+    "build_en": "Robust Spirit",
+    "source": "ark_passive_so_2.png",
+    "filename": "soulfist-robust-spirit.png"
+  },
+  {
+    "class_kr": "창술사",
+    "class_en": "Glaivier",
+    "build_kr": "절정",
+    "build_en": "Pinnacle",
+    "source": "ark_passive_lm_2.png",
+    "filename": "glaivier-pinnacle.png"
+  },
+  {
+    "class_kr": "창술사",
+    "class_en": "Glaivier",
+    "build_kr": "절제",
+    "build_en": "Control",
+    "source": "ark_passive_01_52.png",
+    "filename": "glaivier-control.png"
+  },
+  {
+    "class_kr": "스트라이커",
+    "class_en": "Striker",
+    "build_kr": "일격필살",
+    "build_en": "Deathblow",
+    "source": "ark_passive_bm_2.png",
+    "filename": "striker-deathblow.png"
+  },
+  {
+    "class_kr": "스트라이커",
+    "class_en": "Striker",
+    "build_kr": "오의난무",
+    "build_en": "Esoteric Flurry",
+    "source": "ark_passive_bm_1.png",
+    "filename": "striker-esoteric-flurry.png"
+  },
+  {
+    "class_kr": "브레이커",
+    "class_en": "Breaker",
+    "build_kr": "권왕파천무",
+    "build_en": "Brawl King Storm",
+    "source": "ark_passive_ifm_1.png",
+    "filename": "breaker-brawl-king-storm.png"
+  },
+  {
+    "class_kr": "브레이커",
+    "class_en": "Breaker",
+    "build_kr": "수라의 길",
+    "build_en": "Asura's Path",
+    "source": "ark_passive_ifm_4.png",
+    "filename": "breaker-asuras-path.png"
+  },
+  {
+    "class_kr": "호크아이",
+    "class_en": "Sharpshooter",
+    "build_kr": "죽음의 습격",
+    "build_en": "Death Strike",
+    "source": "ark_passive_he_1.png",
+    "filename": "sharpshooter-death-strike.png"
+  },
+  {
+    "class_kr": "호크아이",
+    "class_en": "Sharpshooter",
+    "build_kr": "두 번째 동료",
+    "build_en": "Loyal Companion",
+    "source": "ark_passive_he_2.png",
+    "filename": "sharpshooter-loyal-companion.png"
+  },
+  {
+    "class_kr": "데빌헌터",
+    "class_en": "Deadeye",
+    "build_kr": "전술 탄환",
+    "build_en": "Tactical Bullet",
+    "source": "ark_passive_dh_17.png",
+    "filename": "deadeye-tactical-bullet.png"
+  },
+  {
+    "class_kr": "데빌헌터",
+    "class_en": "Deadeye",
+    "build_kr": "핸드거너",
+    "build_en": "Pistoleer",
+    "source": "ark_passive_dh_4.png",
+    "filename": "deadeye-pistoleer.png"
+  },
+  {
+    "class_kr": "블래스터",
+    "class_en": "Artillerist",
+    "build_kr": "포격 강화",
+    "build_en": "Barrage Enhancement",
+    "source": "ark_passive_bs_1.png",
+    "filename": "artillerist-barrage-enhancement.png"
+  },
+  {
+    "class_kr": "블래스터",
+    "class_en": "Artillerist",
+    "build_kr": "화력 강화",
+    "build_en": "Firepower Enhancement",
+    "source": "ark_passive_bs_2.png",
+    "filename": "artillerist-firepower-enhancement.png"
+  },
+  {
+    "class_kr": "스카우터",
+    "class_en": "Machinist",
+    "build_kr": "아르데타인의 기술",
+    "build_en": "Arthetinean Skill",
+    "source": "ark_passive_sc_2.png",
+    "filename": "machinist-arthetinean-skill.png"
+  },
+  {
+    "class_kr": "스카우터",
+    "class_en": "Machinist",
+    "build_kr": "진화의 유산",
+    "build_en": "Evolutionary Legacy",
+    "source": "ark_passive_sc_1.png",
+    "filename": "machinist-evolutionary-legacy.png"
+  },
+  {
+    "class_kr": "건슬링어",
+    "class_en": "Gunslinger",
+    "build_kr": "피스메이커",
+    "build_en": "Peacemaker",
+    "source": "ark_passive_dhf_1.png",
+    "filename": "gunslinger-peacemaker.png"
+  },
+  {
+    "class_kr": "건슬링어",
+    "class_en": "Gunslinger",
+    "build_kr": "사냥의 시간",
+    "build_en": "Time to Hunt",
+    "source": "ark_passive_dhf_4.png",
+    "filename": "gunslinger-time-to-hunt.png"
+  },
+  {
+    "class_kr": "환수술사",
+    "class_en": "Wildsoul",
+    "build_kr": "야성",
+    "build_en": "Ferality",
+    "source": "ark_passive_dr_1.png",
+    "filename": "wildsoul-ferality.png"
+  },
+  {
+    "class_kr": "환수술사",
+    "class_en": "Wildsoul",
+    "build_kr": "환수 각성",
+    "build_en": "Phantom Beast Awakening",
+    "source": "dr_skill_01_24.png",
+    "filename": "wildsoul-phantom-beast-awakening.png"
+  },
+  {
+    "class_kr": "바드",
+    "class_en": "Bard",
+    "build_kr": "절실한 구원",
+    "build_en": "Desperate Salvation",
+    "source": "ark_passive_bd_17.png",
+    "filename": "bard-desperate-salvation.png"
+  },
+  {
+    "class_kr": "바드",
+    "class_en": "Bard",
+    "build_kr": "진실된 용맹",
+    "build_en": "True Courage",
+    "source": "ark_passive_bd_2.png",
+    "filename": "bard-true-courage.png"
+  },
+  {
+    "class_kr": "서머너",
+    "class_en": "Summoner",
+    "build_kr": "상급 소환사",
+    "build_en": "Master Summoner",
+    "source": "ark_passive_sm_2.png",
+    "filename": "summoner-master-summoner.png"
+  },
+  {
+    "class_kr": "서머너",
+    "class_en": "Summoner",
+    "build_kr": "넘치는 교감",
+    "build_en": "Communication Overflow",
+    "source": "ark_passive_sm_1.png",
+    "filename": "summoner-communication-overflow.png"
+  },
+  {
+    "class_kr": "아르카나",
+    "class_en": "Arcanist",
+    "build_kr": "황제의 칙령",
+    "build_en": "Order of the Emperor",
+    "source": "ark_passive_ac_2.png",
+    "filename": "arcanist-order-of-the-emperor.png"
+  },
+  {
+    "class_kr": "아르카나",
+    "class_en": "Arcanist",
+    "build_kr": "황후의 은총",
+    "build_en": "Grace of the Empress",
+    "source": "ark_passive_ac_1.png",
+    "filename": "arcanist-grace-of-the-empress.png"
+  },
+  {
+    "class_kr": "소서리스",
+    "class_en": "Sorceress",
+    "build_kr": "점화",
+    "build_en": "Igniter",
+    "source": "ark_passive_scs_1.png",
+    "filename": "sorceress-igniter.png"
+  },
+  {
+    "class_kr": "소서리스",
+    "class_en": "Sorceress",
+    "build_kr": "환류",
+    "build_en": "Reflux",
+    "source": "ark_passive_scs_2.png",
+    "filename": "sorceress-reflux.png"
+  },
+  {
+    "class_kr": "도화가",
+    "class_en": "Artist",
+    "build_kr": "만개",
+    "build_en": "Full Bloom",
+    "source": "ark_passive_yy_7.png",
+    "filename": "artist-full-bloom.png"
+  },
+  {
+    "class_kr": "도화가",
+    "class_en": "Artist",
+    "build_kr": "회귀",
+    "build_en": "Recurrence",
+    "source": "ark_passive_yy_2.png",
+    "filename": "artist-recurrence.png"
+  },
+  {
+    "class_kr": "기상술사",
+    "class_en": "Aeromancer",
+    "build_kr": "질풍노도",
+    "build_en": "Wind Fury",
+    "source": "ark_passive_wa_1.png",
+    "filename": "aeromancer-wind-fury.png"
+  },
+  {
+    "class_kr": "기상술사",
+    "class_en": "Aeromancer",
+    "build_kr": "이슬비",
+    "build_en": "Drizzle",
+    "source": "ark_passive_01_56.png",
+    "filename": "aeromancer-drizzle.png"
+  },
+  {
+    "class_kr": "블레이드",
+    "class_en": "Deathblade",
+    "build_kr": "잔재된 기운",
+    "build_en": "Remaining Energy",
+    "source": "ark_passive_bl_4.png",
+    "filename": "deathblade-remaining-energy.png"
+  },
+  {
+    "class_kr": "블레이드",
+    "class_en": "Deathblade",
+    "build_kr": "버스트",
+    "build_en": "Surge",
+    "source": "ark_passive_bl_1.png",
+    "filename": "deathblade-surge.png"
+  },
+  {
+    "class_kr": "데모닉",
+    "class_en": "Shadowhunter",
+    "build_kr": "멈출 수 없는 충동",
+    "build_en": "Demonic Impulse",
+    "source": "ark_passive_dm_1.png",
+    "filename": "shadowhunter-demonic-impulse.png"
+  },
+  {
+    "class_kr": "데모닉",
+    "class_en": "Shadowhunter",
+    "build_kr": "완벽한 억제",
+    "build_en": "Perfect Suppression",
+    "source": "ark_passive_dm_6.png",
+    "filename": "shadowhunter-perfect-suppression.png"
+  },
+  {
+    "class_kr": "리퍼",
+    "class_en": "Reaper",
+    "build_kr": "갈증",
+    "build_en": "Hunger",
+    "source": "ark_passive_rp_5.png",
+    "filename": "reaper-hunger.png"
+  },
+  {
+    "class_kr": "리퍼",
+    "class_en": "Reaper",
+    "build_kr": "달의 소리",
+    "build_en": "Lunar Voice",
+    "source": "ark_passive_rp_1.png",
+    "filename": "reaper-lunar-voice.png"
+  },
+  {
+    "class_kr": "소울이터",
+    "class_en": "Souleater",
+    "build_kr": "만월의 집행자",
+    "build_en": "Full Moon Harvester",
+    "source": "ark_passive_se_1.png",
+    "filename": "souleater-full-moon-harvester.png"
+  },
+  {
+    "class_kr": "소울이터",
+    "class_en": "Souleater",
+    "build_kr": "그믐의 경계",
+    "build_en": "Night's Edge",
+    "source": "ark_passive_se_5.png",
+    "filename": "souleater-nights-edge.png"
+  }
+]
